@@ -1,0 +1,41 @@
+{
+    "UserDetails":[
+        {
+            "email":"a@gmail.com",
+            "password":"12345",
+            "name":"neha",
+            "contact":"9876543210"
+        },
+        {
+            "email":"b@gmail.com",
+            "password":"67890",
+            "name":"anushka",
+            "contact":"9876987698"
+        },
+        {
+            "email":"c@gmail.com",
+            "password":"komal12",
+            "name":"komal",
+            "contact":"888888543"
+        },
+        {
+            "email":"d@gmail.com",
+            "password":"bhavya123",
+            "name":"bhavya",
+            "contact":"9988776655"
+        },
+        {
+            "email":"e@gmail.com",
+            "password":"55555",
+            "name":"anii",
+            "contact":"7854326789"
+        },
+        {
+            "email":"f@gmail.com",
+            "password":"e453h5",
+            "name":"ketan",
+            "contact":"7854334789"
+        }
+
+    ]
+}
